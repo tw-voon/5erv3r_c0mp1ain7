@@ -1,0 +1,21 @@
+#complaint_img {
+	width: 100%;
+	height: auto;
+}
+
+#img_container{
+
+}
+
+.title{
+	font-style: bold;
+	font-size: 24px;
+}
+
+.demo-list-control {
+  width: 100%;
+}
+
+.demo-list-radio {
+  display: inline;
+}
